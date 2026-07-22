@@ -1,13 +1,13 @@
-# RemoteHub
+# Remote Sim
 
 [English README](README.md)
 
-**シミュレータの確認を、もっと手元に。** RemoteHubは、シミュレータのライブ映像と主要な操作をスマホに届けます。机から離れていても、開発中のUIをすばやく確認できます。
+**シミュレータの確認を、もっと手元に。** Remote Simは、シミュレータのライブ映像と主要な操作をスマホに届けます。机から離れていても、開発中のUIをすばやく確認できます。
 
 ## クイックスタート
 
 1. PCアプリをHomebrewまたはDMGからインストールします。
-2. PCアプリとスマホのRemoteHubを起動します。
+2. PCアプリとスマホのRemote Simを起動します。
 3. PCとスマホを同じネットワークまたはVPNへ接続します。
 4. 初回設定ではiCloudによる自動接続を確認します。共有する場合は、PCアプリの設定画面から「アプリURLを共有」を選び、AirDropでスマホへ送信します。
 5. シミュレータを選び、表示と操作を始めます。
@@ -18,12 +18,12 @@
 
 ```bash
 brew tap kmatsushita1012/tap
-brew install --cask remote-hub
+brew install --cask remote-sim
 ```
 
 ### DMG
 
-最新版の[RemoteHub.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/RemoteHub.dmg)をダウンロードして開き、`RemoteHub.app`をアプリケーションへ移動します。
+最新版の[Remote Sim.dmg](https://github.com/kmatsushita1012/RemoteHub/releases/latest/download/Remote%20Sim.dmg)をダウンロードして開き、`Remote Sim.app`をアプリケーションへ移動します。
 
 ## できること
 
